@@ -1,2 +1,2 @@
 # PT-case_study
-My bug finds
+My bug findings
