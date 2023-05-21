@@ -8,4 +8,4 @@ Over here, there were employee pictures of the company with their LinkedIn accou
 
 As a hacker, one idea came to mind immediately. Let's claim those usernames associated with the 404 accounts and test if the company's page will now redirect everyone to our fake employee accounts using those usernames. To execute this plan, I asked my friend DK to create a LinkedIn account with one of the non-existing usernames, while I created another account with the remaining username. As expected, when we accessed the company's page, we were redirected to our fake employee LinkedIn accounts. It was quite an amusing outcome
 
-https://youtu.be/DMXnr0FqNmk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DMXnr0FqNmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
