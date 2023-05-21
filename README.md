@@ -41,4 +41,4 @@ Create a profile using a mobile no. that I don’t own? to ( Identity theft ) & 
 An attacker could supply a URL that redirects an unsuspecting victim from a legitimate domain to an attacker's phishing site.
 </br>
 >Poc 1
-[<img src="https://i.ytimg.com/vi/tBaHuRQKtg8&feature=youtu.be/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/tBaHuRQKtg8 "Poc : 1")     </br> 
+[<img src="https://i.ytimg.com/vi/tBaHuRQKtg8/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/tBaHuRQKtg8 "Poc : 1")     </br> 
