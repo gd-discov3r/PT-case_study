@@ -2,7 +2,7 @@
 My findings
 
 > #1 **Broken Link Hijacking**
-</br>
+
 Over here, there were employee pictures of the company with their LinkedIn accounts attached. Clicking on each employee's picture would redirect you to their respective LinkedIn accounts. While checking each account to ensure the redirection was correct, I encountered a 404 error indicating that one employee's LinkedIn account didn't exist. Surprisingly, I found two more accounts with the same 404 error.
 
 As a hacker, one idea came to mind immediately. Let's claim those usernames associated with the 404 accounts and test if the company's page will now redirect everyone to our fake employee accounts using those usernames. To execute this plan, I asked my friend DK to create a LinkedIn account with one of the non-existing usernames, while I created another account with the remaining username. As expected, when we accessed the company's page, we were redirected to our fake employee LinkedIn accounts. It was quite an amusing outcome.
@@ -19,4 +19,11 @@ Cross-site scripting (xss) is an attack in which an attacker injects malicious e
 >Poc 1
 [<img src="https://i.ytimg.com/vi/VjzGqnbjCK0/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/ljr_cl4WAWI "Poc : 1")      </br> 
          
+> #3 **Web Cache Poisoning Through Host Header Attack **
+ 
+web cache poison The goal of poisoning the cache is to make the clients load unexpected resources partially or controlled by the attacker.The poisoned response will only be served to users who visit the affected page while the cache is poisoned. As a result, the impact can range from non-existent to massive depending on whether the page is popular or not.
+</br>
+>Poc 1
+ [<img src="https://i.ytimg.com/vi/PO280MV8pmw/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/PO280MV8pmw "Poc : 1")      </br> 
+
 
