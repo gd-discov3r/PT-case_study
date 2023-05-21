@@ -47,4 +47,4 @@ An attacker could supply a URL that redirects an unsuspecting victim from a legi
 Parameter tampering is a simple attack targeting the application business logic. This attack takes advantage of the fact that many programmers rely on hidden or fixed fields (such as a hidden tag in a form or a parameter in a URL) as the only security measure for certain operations.
 </br>
 >Poc 1
-[<img src="https://i.ytimg.com/vi/HeUdcGxZ0hE/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/HeUdcGxZ0hE "Poc : 1")     </br> 
+[<img src="https://i.ytimg.com/vi/HeUdcGxZ0hE /maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/HeUdcGxZ0hE "Poc : 1")     </br> 
