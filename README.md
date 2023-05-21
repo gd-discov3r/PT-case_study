@@ -48,3 +48,5 @@ Parameter tampering is a simple attack targeting the application business logic.
 </br>
 >Poc 1
 [<img src="https://i.ytimg.com/vi/xtIe9f94LNw/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/HeUdcGxZ0hE "Poc : 1")     </br> 
+>Poc 2 
+ [<img src="https://i.ytimg.com/vi/wHTYBIxLzw0/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/wHTYBIxLzw0 "Poc : 2 ")      </br> 
