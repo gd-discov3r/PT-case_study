@@ -37,7 +37,8 @@ Create a profile using a mobile no. that I don’t own? to ( Identity theft ) & 
 >Poc 3 
  [<img src="https://i.ytimg.com/vi/-tP-Dohgqhc/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/-tP-Dohgqhc "Poc : 3")      </br> 
 > #5 **Open Redirection**
-an attacker could supply a URL that redirects an unsuspecting victim from a legitimate domain to an attacker's phishing site.
+
+An attacker could supply a URL that redirects an unsuspecting victim from a legitimate domain to an attacker's phishing site.
 </br>
 >Poc 1
- [<img src="https://i.ytimg.com/vi/tBaHuRQKtg8/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/tBaHuRQKtg8 "Poc : 1")      </br> 
+[<img src="https://i.ytimg.com/vi/tBaHuRQKtg8&ab_channel=Learnerscrew/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/tBaHuRQKtg8&ab_channel=Learnerscrew "Poc : 1")     </br> 
