@@ -26,4 +26,13 @@ web cache poison The goal of poisoning the cache is to make the clients load une
 >Poc 1
  [<img src="https://i.ytimg.com/vi/PO280MV8pmw/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/PO280MV8pmw "Poc : 1")      </br> 
 
+> #4 **OTP Bypass - Bruteforce And Responce Manipulation **
 
+Create a profile using a mobile no. that I don’t own? to ( Identity theft ) & get access to the account of a person, if all I know is their username or mobile number? When i entered the correct OTP and checking the Response to this Request. Response code is very simple HTTP/1.1 200 and “success” then i think let’s bypass OTP Verification.
+</br>
+>Poc 1 - Bruteforce
+ [<img src="https://i.ytimg.com/vi/efqR1hs7B3A/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/efqR1hs7B3A "Poc : 1")      </br> 
+>Poc 2 - Responce Manipulation
+ [<img src="https://i.ytimg.com/vi/vcliMO3VA4I/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/vcliMO3VA4I "Poc : 1")      </br> 
+>Poc 3 
+ [<img src="https://i.ytimg.com/vi/-tP-Dohgqhc/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/-tP-Dohgqhc "Poc : 1")      </br> 
