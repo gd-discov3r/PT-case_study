@@ -50,3 +50,9 @@ Parameter tampering is a simple attack targeting the application business logic.
 [<img src="https://i.ytimg.com/vi/xtIe9f94LNw/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/HeUdcGxZ0hE "Poc : 1")     </br> 
 >Poc 2 
  [<img src="https://i.ytimg.com/vi/wHTYBIxLzw0/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/wHTYBIxLzw0 "Poc : 2 ")      </br> 
+ > #7 **Cookies Hijacking**
+ 
+Cookie hijacking is an attack in which cybercriminals steal your session cookies. Session cookies contain your session ID which is essentially what lets you log in to an online service. Cookie manipulation is the process through which they then forge cookies using your session ID to log in to your accounts.
+</br>
+>Poc 1
+[<img src="https://i.ytimg.com/vi/yJEjtIxR4b8/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/yJEjtIxR4b8 "Poc : 1")     </br> 
