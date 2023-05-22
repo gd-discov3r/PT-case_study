@@ -13,6 +13,7 @@ As a hacker, one idea came to mind immediately. Let's claim those usernames asso
 </br>
 
 > #2 **Csrf Client Side Request Forgery**
+ 
 Cross-Site Request Forgery (csrf) attack targets the user to execute malicious requests on behalf of the attackeror we can say attack that forces authenticated users to submit a request to a Web application against which they are currently authenticated. 
 </br>
 >Poc 1
