@@ -1,4 +1,4 @@
-# PT-case_study
+# WAPT-case_study
 My findings
 
 > #1 **Broken Link Hijacking**
